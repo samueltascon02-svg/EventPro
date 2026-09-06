@@ -18,7 +18,7 @@ Desarrollar un sistema web que permita gestionar de manera organizada eventos y 
 
 - Samuel Tascon Duque — Diseñador / Desarrollador
 - Harrynson Moreno Campo — Scrum Master / Desarrollador
-- Santiago Santamaria Jimenez — Product OwnerDiseñador / Desarrollador
+- Santiago Santamaria Jimenez — Product Owner / Desarrollador
 
 ## Tecnologías
 
