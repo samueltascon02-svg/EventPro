@@ -37,14 +37,19 @@ relacional, facilitando la consulta y gestión de la información.
 - JavaScript
 - TypeScript
 
-### Arquitectura
+## Arquitectura
 
-- Patrón Modelo–Vista–Controlador (MVC)
+El proyecto utilizará el patrón Modelo–Vista–Controlador (MVC) para organizar
+la estructura y responsabilidades de la aplicación.
 
 ### Backend
 
-- Backend para la gestión de operaciones CRUD
-- Comunicación entre la aplicación web y la base de datos
+El backend será responsable de:
+
+- Gestionar la lógica del sistema.
+- Procesar las operaciones CRUD.
+- Gestionar las solicitudes realizadas desde el frontend.
+- Comunicar la aplicación web con la base de datos PostgreSQL.
 
 ### Base de datos
 
