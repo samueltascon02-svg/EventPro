@@ -97,5 +97,17 @@
     </article>
     </section>
 </main>
+    <script type="module">
+        import eventos from "../modelo/Evento.js";
+
+        import {
+            buscarEventos,
+            filtrarPorCiudad,
+            filtrarPorCategoria,
+            obtenerEventoPorId
+        } from "../controlador/eventos.js";
+
+        console.log("Eventos cargados:", eventos);
+    </script>
 </body>
 </html>
